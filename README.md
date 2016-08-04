@@ -5,3 +5,4 @@
 - Difficulty should be higher than our laboratory experiments.
 - Documentation: IEEE Conference Paper format: https://www.ieee.org/conferences_events/conferences/publishing/templates.html 
 - Justify the significance, technical difficulty, and social impact of your chosen problem.
+- Highlight the specific division of tasks between group members.

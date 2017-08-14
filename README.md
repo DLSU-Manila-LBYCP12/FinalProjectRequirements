@@ -1,7 +1,8 @@
 # Final Project Requirements:
 
 - Apply at ALL data structures, e.x. List, Stack, Queue, Trees, and Graph, to a significant problem.
-- Integrate acm.jar and AirTable database to your application.
+- Integrate acm.jar to your application.
+- (OPTIONAL) Utilize AirTable database 
 - Difficulty should be higher than our laboratory experiments.
 ```
 /**************************************************************************************/
